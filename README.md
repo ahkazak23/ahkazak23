@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://raw.githubusercontent.com/VDuda/VDuda/main/headergitdark.gif#gh-dark-mode-only alt="Header GIF" width="80%" />
+  <img src=https://c4.wallpaperflare.com/wallpaper/968/536/905/technology-git-hd-wallpaper-thumb.jpg alt="Header GIF" width="80%" />
 </p>
 <h1 align="center">Hi 👋, I'm Alihan KAZAK</h1>
 <h3 align="left">Connect with me:</h3>
